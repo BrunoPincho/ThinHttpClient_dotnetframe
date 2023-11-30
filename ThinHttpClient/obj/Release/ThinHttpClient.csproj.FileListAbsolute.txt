@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\bin\Release\ThinHttpClient.exe.config
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\bin\Release\ThinHttpClient.exe
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\bin\Release\ThinHttpClient.pdb
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\obj\Release\ThinHttpClient.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\obj\Release\ThinHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\obj\Release\ThinHttpClient.exe
+C:\Users\user\source\repos\ThinHttpClient\ThinHttpClient\obj\Release\ThinHttpClient.pdb
